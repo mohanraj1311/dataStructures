@@ -1,2 +1,2 @@
 # dataStructures
-Contains the implementation of major data structures from ground up
+Contains the implementation of major data structures from ground up.
